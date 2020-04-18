@@ -33,18 +33,20 @@ main {
 p {
 	color: #FFFFFF;
 	font-size: 18px;
+	margin:1em;
 }
 html {
 	background: linear-gradient(#888888,#000000);
 	color: #FFFFFF;
 }
-.lista1:befor{
+.lista1,.lista:befor{
 	content: 🌟;
+	margin:1em;
 }
 <<<<<<< HEAD
 
 =======
->>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
+>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
 footer {
 	color:#FFFFFF;
 	text-align:center;
@@ -62,3 +64,5 @@ footer a {
 }
 =======
 >>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
+
+
