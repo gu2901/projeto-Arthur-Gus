@@ -40,7 +40,10 @@ html {
 .lista1:befor{
 	content: 🌟;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
 footer {
 	color:#FFFFFF;
 	text-align:center;
@@ -48,10 +51,13 @@ footer {
 }
 footer a {
 	color:#000088;
+<<<<<<< HEAD
 }
 .destaques-img{
 	background-image: url("https://pm1.narvii.com/6843/193511c35429f70dae770251247ab9978b5e0099v2_hq.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: right;
+=======
+>>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
 }
