@@ -36,6 +36,7 @@ p {
 }
 html {
 	background: linear-gradient(#888888,#000000);
+	color: #FFFFFF;
 }
 .lista1:befor{
 	content: 🌟;
@@ -58,6 +59,6 @@ footer a {
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: right;
+}
 =======
 >>>>>>> 44418ec33c9fe24ff94eb7712848a4e0829fbcf0
-}
