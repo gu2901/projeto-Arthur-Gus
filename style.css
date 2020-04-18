@@ -1,0 +1,50 @@
+/*css index*/
+body {
+	font-family: 'Baloo Paaji 2', sans-serif;
+}
+.videos {
+	width: 33%;
+	display:inline-block;
+	vertical-align:top;
+	height:300px;
+	margin:0 0 1em;
+}
+
+main {
+	clear:left;
+}
+
+.imagem-pewds {
+	width:33%;
+	height:160px ;
+	float:left;
+	margin:1em;
+}
+
+.titulo {
+	font-size: 2.2em;
+	display: inline-block;
+	margin: 1em;
+	text-align:center;
+	display: block;
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+}
+p {
+	color: #FFFFFF;
+	font-size: 18px;
+}
+html {
+	background: linear-gradient(#888888,#000000);
+}
+.lista1:befor{
+	content: 🌟;
+}
+footer {
+	color:#FFFFFF;
+	text-align:center;
+	background: linear-gradient(#000000,#666666)
+}
+footer a {
+	color:#000088;
+}
