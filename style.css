@@ -39,10 +39,14 @@ html {
 	background: linear-gradient(#888888,#000000);
 	color: #FFFFFF;
 }
-.lista,:before{
+.lista:before{
 	content: 🌟;
 	margin:1em;
-	font-size:;
+	font-size:18px;
+}
+.lista {
+	margin:1em;
+	font-size:18px;
 }
 <<<<<<< HEAD
 
