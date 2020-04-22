@@ -3,7 +3,7 @@ body {
 	font-family: 'Baloo Paaji 2', sans-serif;
 }
 .videos {
-	width: 33%;
+	width:33%;
 	display:inline-block;
 	vertical-align:top;
 	height:300px;
@@ -33,12 +33,20 @@ main {
 p {
 	color: #FFFFFF;
 	font-size: 18px;
+	margin:1em;
 }
 html {
 	background: linear-gradient(#888888,#000000);
+	color: #FFFFFF;
 }
-.lista1:befor{
+.lista:before{
 	content: 🌟;
+	margin:1em;
+	font-size:18px;
+}
+.lista {
+	margin:1em;
+	font-size:18px;
 }
 
 footer {
@@ -54,4 +62,6 @@ footer a {
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: right;
+}
+
 }
